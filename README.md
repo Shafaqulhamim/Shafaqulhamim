@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I am Hamim. I am an aspiring computer engineer. Currently I am learning Machine Learning, Mobile App developement. I'm learning flutter to create AI based mobile applications.
-
+I am Hamim. I am an computer engineer completed my Bachelors and now enrolled in Masters.I am efficient in React development, Flutter, and machine learning implimentations. My next goal is to be proficient and expert in web developement with AI.
 
 
